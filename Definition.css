@@ -1,0 +1,24 @@
+div{
+    border: 2px solid;
+    /* width: 32.94%; */
+    width: 48%;
+    padding: 5px;
+}
+h1{
+    color:rebeccapurple;
+}
+html{
+    border: 5px solid pink;
+    padding: 10px;
+    margin: 100px;
+}
+#democracy{
+    float: left;
+}
+#monarchy{
+    float: right;
+}
+#communism{
+    clear:both;
+    width: 100%;
+}
